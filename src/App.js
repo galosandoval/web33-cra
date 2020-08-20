@@ -9,15 +9,7 @@ function App() {
     <main>
       <h1>Create React App + Go API</h1>
       <h2>
-        Deployed with{' '}
-        <a
-          href="https://vercel.com/docs"
-          target="_blank"
-          rel="noreferrer noopener"
-        >
-          Vercel
-        </a>
-        !
+        Web 33 is fine 😈
       </h2>
       <p>
         <a
